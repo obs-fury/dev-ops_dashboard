@@ -164,7 +164,7 @@
   <!-- Main -->
   <main class="main">
     <div class="topbar">
-      <h1>Cloud Infrastructure Overview</h1>
+	<h1>some bullshit update</h1>
       <div class="actions">
         <button class="icon-btn" title="Settings"><svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3M4.9 4.9 7 7M17 17l2.1 2.1M4.9 19.1 7 17M17 7l2.1-2.1"/></svg></button>
         <button class="btn-primary" id="refreshBtn">&#10042; Dashboard</button>
